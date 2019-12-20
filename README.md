@@ -1,4 +1,4 @@
-# Network Neuroscience Lab Website
+# Alain Dagher Lab Website
 
 This is the website of our academic research group at the Montreal Neurological Institute, McGill University.
 
